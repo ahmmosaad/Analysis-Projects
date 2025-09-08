@@ -43,7 +43,7 @@ snapshot for data after Cleaning and Preparation:
 -	**Middle aged** customer purchased a car more than others
 -	**shorter commute** indicted more tendency to purchase bike.
 -	Occupation & Education: Customers with **professional jobs and higher education** levels purchase bikes more frequently.
--	Gender and marital state: **Males** are more likely to purchase a bike than females whatever the marital state.
+-	Gender and marital state: **Males** are slightly more likely to purchase a bike than females whatever the marital state.
 -	 Children number: **negative relation** between children number and purchase bike chance.
 
 
