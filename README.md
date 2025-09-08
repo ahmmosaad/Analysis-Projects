@@ -1,12 +1,12 @@
-# 🚲 Bike Sales Data Analysis
+# Bike Sales Data Analysis
 
-## 📌 Overview
+##  Overview
 This project analyzes a **bike sales dataset** using **Excel** to uncover trends in customer demographics, purchasing behavior, and sales performance.  
 The goal is to explore **what factors influence bike purchases** and to provide insights that could help improve marketing and sales strategies.
 
 ---
 
-## 🔍 Data Preparation
+##  Data Preparation
 1. **Data Cleaning**
    - Removed duplicate customer records.  
    - Handled missing values in **income** and **age** fields.  
@@ -23,7 +23,7 @@ The goal is to explore **what factors influence bike purchases** and to provide 
 
 ---
 
-## 📊 Analysis Performed
+##  Analysis Performed
 - **Descriptive Statistics**: Average income, age distribution, commute distances.  
 - **Segmentation**:  
   - By **gender**, **marital status**, and **children**.  
@@ -36,7 +36,7 @@ The goal is to explore **what factors influence bike purchases** and to provide 
 
 ---
 
-## 📈 Key Findings & Insights
+##  Key Findings & Insights
 - **Income is a strong predictor**: Customers with higher income levels are more likely to purchase bikes.  
 - **Middle-aged customers** showed the **highest bike purchase rate** compared to adolescents and older groups.  
 - **Commute distance matters**: Customers with **shorter commutes (0–5 miles)** tend to buy more bikes.  
@@ -45,23 +45,8 @@ The goal is to explore **what factors influence bike purchases** and to provide 
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 - **Microsoft Excel**: Pivot Tables, Charts, Conditional Formatting.  
 - **Data Cleaning**: Filters, formulas, and logical functions.  
-
----
-
-## 🚀 How to Use
-1. Clone this repository or download the Excel file.  
-2. Open the file in **Excel 2016+**.  
-3. Explore worksheets:  
-   - `Raw Data` → Original dataset.  
-   - `Cleaned Data` → Processed dataset.  
-   - `Analysis` → Pivot tables and charts.  
-
----
-
-## 📚 Future Improvements
-- Automate cleaning and transformations using **Python (Pandas)**.  
 - Create an **interactive dashboard** in Power BI / Tableau.  
 - Apply **predictive modeling** to forecast bike purchases.  
