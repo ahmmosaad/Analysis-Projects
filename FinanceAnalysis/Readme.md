@@ -5,7 +5,7 @@
 A 38-month money data set that represents Income, Savings, and Expenses. In this project, I tried to analyze the patterns of these three aspects and follow their growth with time.
 
 ## TOOLS:
-- Power BI Check out the project file in BI format here:  [my link](money.pbix) 
+- Power BI Check out the project file in BI format here:  [Dashboard](Money.pbix) 
 
 ### What are the New skills I learned from this project?
 - How to make a dashboard with full color harmony.
