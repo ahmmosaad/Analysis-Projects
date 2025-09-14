@@ -8,3 +8,6 @@ A 38-month money data set that represents Income, Savings, and Expenses. In this
 
 - How to use a line chart and make its data dynamic like this:
 - <img src="line.gif" alt="drawing" style="width:400px;"/>
+
+- How to visualize the growth and losses using arrows like this:
+- <img src="arrows.gif" alt="drawing" style="width:400px;"/>
