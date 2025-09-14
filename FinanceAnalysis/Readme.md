@@ -6,5 +6,5 @@ A 38-month money data set that represents Income, Savings, and Expenses. In this
 
 ### What did I learned from this project ?
 
-- How to use a line chart and make its data dynamic like this
-  <img src="line.gif" alt="drawing" style="width:400px;"/>
+- How to use a line chart and make its data dynamic like this:
+- <img src="line.gif" alt="drawing" style="width:400px;"/>
