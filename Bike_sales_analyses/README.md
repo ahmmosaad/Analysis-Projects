@@ -5,6 +5,9 @@ This project analyzes a **bike sales dataset** using **Excel** to uncover trends
 The goal is to explore **what factors influence bike purchases** and to provide insights that could help improve marketing and sales strategies.
 
 ---
+
+<img src= "Dashboard_bike_sales.jpeg" width = 900px>
+---
 ### About Data:
 The data consist of 1000 record of people demographic data and wither they have a bike or no, and here is a snapshot of data:
 ![Bike Sales Dashboard](1.png)
