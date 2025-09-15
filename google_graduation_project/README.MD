@@ -43,7 +43,7 @@ This project demonstrates the ability to transform raw trip data into actionable
 It reflects strong competencies in data cleaning, visualization, segmentation, and data storytelling — essential for data-driven business decisions.  
 
 ---
-[](Final Cycle Report_page-0001.jpg)
-[](Final Cycle Report_page-0002.jpg)
-[](Final Cycle Report_page-0003.jpg)
-[](Final Cycle Report_page-0004.jpg)
+<img src="Final Cycle Report_page-0001.jpg" alt="drawing" style="width:1000px;"/>
+<img src="Final Cycle Report_page-0002.jpg" alt="drawing" style="width:1000px;"/>
+<img src="Final Cycle Report_page-0003.jpg" alt="drawing" style="width:1000px;"/>
+<img src="Final Cycle Report_page-0004.jpg" alt="drawing" style="width:1000px;"/>
