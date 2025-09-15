@@ -1,6 +1,6 @@
 # Google Data Analytics Capstone – Cyclistic Bike Sharing Analysis  
 
-## [Dashboard Presentation](https://github.com/ahmmosaad/Analysis-Projects/edit/main/google_graduation_project/README.MD#Dashboard) ⌄
+## [Dashboard Presentation](https://github.com/ahmmosaad/Analysis-Projects/main/google_graduation_project/README.MD#Dashboard) ⌄
 
 ![Cyclistic Logo](https://miro.medium.com/v2/resize:fit:384/1*VZPhIic4YdX1Nnzb96Fk5Q.png)
 
