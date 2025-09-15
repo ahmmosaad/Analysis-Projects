@@ -1,5 +1,7 @@
 # Google Data Analytics Capstone – Cyclistic Bike Sharing Analysis  
 
+## Dashboard Down # ⌄
+
 ![Cyclistic Logo](https://miro.medium.com/v2/resize:fit:384/1*VZPhIic4YdX1Nnzb96Fk5Q.png)
 
 ##  Project Overview  
@@ -41,3 +43,7 @@ This project demonstrates the ability to transform raw trip data into actionable
 It reflects strong competencies in data cleaning, visualization, segmentation, and data storytelling — essential for data-driven business decisions.  
 
 ---
+[](Final Cycle Report_page-0001.jpg)
+[](Final Cycle Report_page-0002.jpg)
+[](Final Cycle Report_page-0003.jpg)
+[](Final Cycle Report_page-0004.jpg)
