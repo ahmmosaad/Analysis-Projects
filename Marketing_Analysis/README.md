@@ -1,6 +1,8 @@
 ## Marketing Analysis Project
 ShopEasy, an online retail business, is facing reduced customer engagement and conversion rates despite launching several new online marketing campaigns. They are reaching out to you to help conduct a detailed analysis and identify areas for improvement in their marketing strategies.
 
+[Check out my presentation](Marketing Analysis Project Presentation.pdf)
+
  <img src="image (3).png" alt="drawing" style="width:500px;"/>
  <img src="image (2).png" alt="drawing" style="width:500px;"/>
  <img src="image (1).png" alt="drawing" style="width:500px;"/>
@@ -66,8 +68,6 @@ This is our data structure with example.
 
 ## Data Cleaning and Preparation:
 
-Download the  database recovery .bak from [Here](MADB.bak)
-
 ### SQL: 
 [Checkput the Queries](SQL_Queries.sql)
 
@@ -106,7 +106,7 @@ After that, I used **pandas** to merge these three columns: score, category, and
 
 ## Now we are ready to open POWER BI 
 
-[Download Project]()
+[Download Power Bi File](Marketing Analysis Dashboard.pbix)
  
 ## Measures and Columns Created:
 1-	Age Range Column Created 18-29, 30-40, 40-55, and +55
