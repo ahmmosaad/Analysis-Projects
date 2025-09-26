@@ -37,7 +37,7 @@ Your expertise in data analysis will be crucial in helping us decode this feedba
 **Insight:** Identify recurring positive and negative feedback to guide product and service improvements.
  
 ## Data
-A database file MADB.Pak, Contains 6 Tables:
+A database file [MADB.Pak](MADB.Pak), Contains 6 Tables:
 1-	Products
 - ProductID	ProductName	Category	Price
 - 1		Running Shoes	Sports	223.75
@@ -71,16 +71,16 @@ Download the  database recovery .bak from [Here](MADB.bak)
 ### SQL: 
 [Checkput the Queries](SQL_Queries.sql)
 
-1-	Products
-Products categorized upon price: Low price <50, Medium Price between 50 and 200, and High price >200 
-2-	Customers Table and Geography Table
-customer data was completed by using the left join between the two tables on geographyID, the result we added country and the city to the user
-3-	Customer Reviews
-ReviewText Column standardized by ensuring the spaces between words (Replace two spaces with one space)
-4-	 Customer Journey
-To ensure the uniqueness of every journey, I used RowNumber() to achieve that. There were many null values for duration, so I used the average to fill these null values.
-5-	  Engagement Table
-Separate ViewClicksCombaind into two tables, convert content type to uppercase, and because social media is our main focus, we excluded the Newsletters content Type.
+1-	Products:
+  - Products categorized upon price: Low price <50, Medium Price between 50 and 200, and High price >200 
+2-	Customers Table and Geography Table:
+  - customer data was completed by using the left join between the two tables on geographyID, the result we added country and the city to the user
+3-	Customer Reviews:
+  - ReviewText Column standardized by ensuring the spaces between words (Replace two spaces with one space)
+4-	 Customer Journey:
+  - To ensure the uniqueness of every journey, I used RowNumber() to achieve that. There were many null values for duration, so I used the average to fill these null values.
+5-	  Engagement Table:
+  - Separate ViewClicksCombaind into two tables, convert content type to uppercase, and because social media is our main focus, we excluded the Newsletters content Type.
 
 ### Python: 
 [Checkput the code](sentiments_analysis_script.py)
