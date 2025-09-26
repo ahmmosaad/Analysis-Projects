@@ -43,24 +43,24 @@ A database file MADB.Pak, Contains 6 Tables:
 - 1		Running Shoes	Sports	223.75
 
 2-	Customers
-CustomerID	CustomerName	Email			Gender	Age	GeographyID
-1		Emma Anderson	em @exl.com	Male		50	2
+- CustomerID	CustomerName	Email			Gender	Age	GeographyID
+- 1		Emma Anderson	em @exl.com	Male		50	2
 
 3-	Geography
-GeographyID	Country	City
-1			UK		London
+- GeographyID	Country	City
+- 1			UK		London
 
 4-	Customer Journey
-JourneyID	CustomerID	ProductID	VisitDate	Stage		Action	Duration
-1		64		18		2024-06-10	Checkout	Drop-off	156
+- JourneyID	CustomerID	ProductID	VisitDate	Stage		Action	Duration
+- 1		64		18		2024-06-10	Checkout	Drop-off	156
 
 5-	Customer Reviews
-ReviewID	CustomerID	ProductID	ReviewDate	Rating	ReviewText
-1		77		18		2023-12-23	 3		Average  experience,  nothing  special.
+- ReviewID	CustomerID	ProductID	ReviewDate	Rating	ReviewText
+- 1		77		18		2023-12-23	 3		Average  experience,  nothing  special.
 
 6-	Engagement Data
-EngagementID  ContentID ContentType Likes EngagementDate CampaignID ProductID ViewsClicksCombined
-1		     39	 Blog		190 2023-08-30	1	     9 		1883-671
+- EngagementID  ContentID ContentType Likes EngagementDate CampaignID ProductID ViewsClicksCombined
+- 1		     39	 Blog		190 2023-08-30	1	     9 		1883-671
 
 This is our data structure with example.
 
@@ -101,8 +101,8 @@ After calculating the **sentiment score**, we categorized sentiments using the s
 •	 '-1.0 to -0.5' 
 
 After that, I used **pandas** to merge these three columns: score, category, and bucket. the new file was exported as a CSV file with the following formula:
-ReviewID	 CustomerID  ProductID  ReviewDate  Rating  ReviewText	SentimentScore	SentimentCategory	SentimentBucket
-1	77	18	12/23/2023	3	xxxxxx.	-0.3089		Mixed Negative	-0.49 to 0.0
+- ReviewID	 CustomerID  ProductID  ReviewDate  Rating  ReviewText	SentimentScore	SentimentCategory	SentimentBucket
+- 1	77	18	12/23/2023	3	xxxxxx.	-0.3089		Mixed Negative	-0.49 to 0.0
 
 ## Now we are ready to open POWER BI 
 
