@@ -39,8 +39,8 @@ Your expertise in data analysis will be crucial in helping us decode this feedba
 ## Data
 A database file MADB.Pak, Contains 6 Tables:
 1-	Products
-ProductID	ProductName	Category	Price
-1		Running Shoes	Sports	223.75
+- ProductID	ProductName	Category	Price
+- 1		Running Shoes	Sports	223.75
 
 2-	Customers
 CustomerID	CustomerName	Email			Gender	Age	GeographyID
