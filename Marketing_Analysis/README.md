@@ -1,10 +1,10 @@
 ## Marketing Analysis Project
 ShopEasy, an online retail business, is facing reduced customer engagement and conversion rates despite launching several new online marketing campaigns. They are reaching out to you to help conduct a detailed analysis and identify areas for improvement in their marketing strategies.
 
-- <img src="image (1).png" alt="drawing" style="width:1000px;"/>
-- <img src="image (2).png" alt="drawing" style="width:1000px;"/>
-- <img src="image (3).png" alt="drawing" style="width:1000px;"/>
-- <img src="image (4).png" alt="drawing" style="width:1000px;"/>
+ <img src="image (3).png" alt="drawing" style="width:500px;"/>
+ <img src="image (2).png" alt="drawing" style="width:500px;"/>
+ <img src="image (1).png" alt="drawing" style="width:500px;"/>
+ <img src="image.png" alt="drawing" style="width:500px;"/>
 
 ## Key Points:
 •	Reduced Customer Engagement: The number of customer interactions and engagement with the site and marketing content has declined.
