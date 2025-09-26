@@ -88,17 +88,17 @@ Download the  database recovery .bak from [Here](MADB.bak)
 We were asked to **analyse sentiments**. Python is the best tool for this, because it contains a library called **NLTK** (Natural Language Tool Kit), and we will download the Vader Lexicon model to use it for sentiment analysis.
 Another library, pyodbc used to connect Python to the database and gather customer reviews table.
 After calculating the **sentiment score**, we categorized sentiments using the score and the customer rating as follows:
-•	Positive: score >0.05 and rating >=4
-•	Mixed Positive: score >0.05 and rating =3, or socre <-0.05 and rating>3
-•	Mixed Negative: score >0.05 and rating <3, or socre <-0.05 and rating=3
-•	Negative: score <- 0.05 and rating <=2
-•	Neutral: score between 0.05 and -0.05 and rating 3
+-	Positive: score >0.05 and rating >=4
+-	Mixed Positive: score >0.05 and rating =3, or socre <-0.05 and rating>3
+-	Mixed Negative: score >0.05 and rating <3, or socre <-0.05 and rating=3
+-	Negative: score <- 0.05 and rating <=2
+-	Neutral: score between 0.05 and -0.05 and rating 3
 
 **Besides this we added another function to create a Sentiment Buckets:**
-•	score >= 0.5:  '0.5 to 1.0'  # Strongly positive sentiment
-•	   0.0 <= score < 0.5: '0.0 to 0.49'  # Mildly positive sentiment
-•	-0.5 <= score < 0.0: '-0.49 to 0.0'  # Mildly negative sentiment
-•	 '-1.0 to -0.5' 
+-	score >= 0.5:  '0.5 to 1.0'  # Strongly positive sentiment
+- 0.0 <= score < 0.5: '0.0 to 0.49'  # Mildly positive sentiment
+- -0.5 <= score < 0.0: '-0.49 to 0.0'  # Mildly negative sentiment
+- -1.0 to -0.5' 
 
 After that, I used **pandas** to merge these three columns: score, category, and bucket. the new file was exported as a CSV file with the following formula:
 - ReviewID	 CustomerID  ProductID  ReviewDate  Rating  ReviewText	SentimentScore	SentimentCategory	SentimentBucket
