@@ -1,4 +1,5 @@
-## Summary of [The Power Of Statistics Course](https://www.coursera.org/learn/the-power-of-statistics/) By Google
+## Summary of Statistics Course By Google on Coursera
+[The Power Of Statistics Course](https://www.coursera.org/learn/the-power-of-statistics/)
 
 Course Approach: Explain Concepts + Apply with Python
 
