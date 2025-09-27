@@ -9,8 +9,8 @@ Course Approach: Explain Concepts + Apply with Python
 #### Confidence Intervals
 #### Hypothesis Test
 
-Find the course summary (Here)[The_Power_Of_Statistics_summary.docx]
+Find the course summary: [Here](The_Power_Of_Statistics_summary.docx)
 
-Get Python Codes (Here)[Descriptive_statistics.py]
+Get Python Codes: [Here](Descriptive_statistics.py)
 
 
